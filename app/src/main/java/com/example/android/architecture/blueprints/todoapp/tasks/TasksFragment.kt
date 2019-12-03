@@ -102,6 +102,8 @@ class TasksFragment : Fragment() {
         viewModel.newTaskEvent.observe(this, EventObserver {
             navigateToAddNewTask()
         })
+
+
     }
 
     private fun setupSnackbar() {

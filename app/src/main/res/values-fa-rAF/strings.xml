@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="add_task">hdgaw</string>
+    <string name="completed_tasks_cleared">dfas</string>
+    <string name="empty_task_message" translatable="false">sdf</string>
+</resources>
